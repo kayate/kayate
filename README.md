@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="animation.svg" width="800" height="200"/>
+	<a href="https://github.com/kayate/kayate"><img src="animation.svg" width="800" height="200"/></a>
 </div>
 
 <br/>
