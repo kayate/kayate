@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kayate
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+	<img src="animation.svg" width="800" height="200"/>
+</div>
 
-<!---
-kayate/kayate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+<div align="center">
+	<a href="https://github.com/kayate/kayate"><img src="markdown.svg" width="70" height="60"/></a>
+  <a href="https://skyline.github.com/kayate/2021"><img src="3d.svg" width="70" height="60"/></a>
+</div>
